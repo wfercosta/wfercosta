@@ -6,7 +6,7 @@ Welcome to my **github.com** profile! I hope you find something useful in my rep
 
 ## About me
 
-Software engineer @ [ciandt.com](http://ciandt.com), technology enthusiast, non-stop reader, blogger, gamer and sports practitioner and half marathon runner. I have been on this journey as a software engineer since 2004, working as a software architect, backend developer and frontend developer. I am passionate about subjects related to software design and architecture, development process, good practices, testability and devops. And if I can say one thing, it is that I am not restricted to technologies, programming languages and frameworks.
+Software engineer @ [ciandt.com](http://ciandt.com), technology enthusiast, non-stop reader, blogger, gamer, sports practitioner and half marathon runner. I have been on this journey as a software engineer since 2004, working as a software architect, backend developer and frontend developer. I am passionate about subjects related to software design and architecture, development process, good practices, testability and devops. And if I can say one thing, it is that I am not restricted to technologies, programming languages and frameworks.
 
 ### Techs
 
