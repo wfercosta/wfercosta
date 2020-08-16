@@ -2,7 +2,7 @@
 
 # Hello, I'm Wander
 
-Welcome to my **github.com** profile! I hope you find something useful in my repositories :smiley:. Feel free to get in touch if you need any help ok? :wink:
+Welcome to my **github.com** profile! I hope you find something useful in my repositories! Feel free to get in touch if you need any help ok?! :smiley: :wink:
 
 ## About me
 
