@@ -1,12 +1,10 @@
-![Profile views](https://gpvc.arturio.dev/wfercosta)
-
 # Hello, I'm Wander
 
 Welcome to my **github.com** profile! I hope you find something useful in my repositories! Feel free to get in touch if you need any help ok?! :smiley: :wink:
 
 ## About me
 
-Product Owner @ [Itau Unibanco](http://www.itau.com.br), software engineer by passion, technology enthusiast, non-stop reader, gamer, sports practitioner and half marathon runner. I have been on this journey as a software engineer since 2004, working as a software architect, backend developer and frontend developer. I am passionate about subjects related to software design and architecture, development process, good practices, testability and devops. And if I can say one thing, it is that I am not restricted to technologies, programming languages and frameworks.
+Solutions Architect @ [Itau Unibanco](http://www.itau.com.br), software engineer by passion, technology enthusiast, non-stop reader, gamer, sports practitioner and half marathon runner. I have been on this journey as a software engineer since 2004, working as a software architect, backend developer and frontend developer. I am passionate about subjects related to software design and architecture, development process, good practices, testability and devops. And if I can say one thing, it is that I am not restricted to technologies, programming languages and frameworks.
 
 ### Techs
 
