@@ -2,10 +2,6 @@
 
 Welcome to my **github.com** profile! I hope you find something useful in my repositories! Feel free to get in touch if you need any help ok?! :smiley: :wink:
 
-## About me
-
-Solutions Architect @ [Itau Unibanco](http://www.itau.com.br), software engineer by passion, technology enthusiast, non-stop reader, gamer, sports practitioner and half marathon runner. I have been on this journey as a software engineer since 2004, working as a software architect, backend developer and frontend developer. I am passionate about subjects related to software design and architecture, development process, good practices, testability and devops. And if I can say one thing, it is that I am not restricted to technologies, programming languages and frameworks.
-
 ### Techs
 
 - **Languages:** Java, Python, Javascript, TypeScript and GoLang;
@@ -20,6 +16,7 @@ Solutions Architect @ [Itau Unibanco](http://www.itau.com.br), software engineer
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wfercosta/)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@wfercosta/)
 [![DEV.to](https://img.shields.io/badge/DEV-to-%23000)](https://dev.to/wfercosta)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000)](https://instagram.com/wfercosta)
 [![Twitter](https://img.shields.io/twitter/follow/wfercosta?style=social)](https://twitter.com/wfercosta)
 
 
