@@ -1,6 +1,5 @@
-# Hello, I'm Wander
-
-Welcome to my **github.com** profile! I hope you find something useful in my repositories! Feel free to get in touch if you need any help ok?! :smiley: :wink:
+# Hi there!
+My name is Wander. I'm a Software Engineer based on Brazil. It's nice to meet you. Welcome to my **github.com** profile! I hope you find something useful for you. Feel free to get in touch if you need any help ok? :smiley: :wink:
 
 ### Techs
 
