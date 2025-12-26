@@ -1,8 +1,88 @@
-# Hi there!
-My name is Wander. I'm a Software Engineer based on Brazil. It's nice to meet you. Welcome to my **github.com** profile! I hope you find something useful for you. Feel free to get in touch if you need any help ok? :smiley: :wink:
+# 👋 Sobre este GitHub
 
-## My social networks
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wfercosta/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wfercosta/)
-[![DEV.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/wfercosta)
+Este perfil é organizado como um **portfólio técnico** focado em **arquitetura de software, cloud computing e engenharia de plataformas**.
 
+Os repositórios aqui não representam produtos finais, mas sim **estudos estruturados, laboratórios técnicos e componentes reutilizáveis**, criados para explorar decisões arquiteturais, trade-offs e padrões aplicáveis a sistemas reais e complexos.
+
+---
+
+## 📦 Tipos de Repositórios
+
+### 🧱 Sandboxes — Casos Arquiteturais Completos
+
+```text
+sandbox-<tema>-platform[-ano]
+```
+
+- Casos de estudo end-to-end
+- Arquitetura documentada (C4, ADRs)
+- Integração entre front-end, back-end e processamento
+- Infraestrutura como código
+- Foco em padrões arquiteturais, não em produto
+
+### 🧪 Labs — Estudos Técnicos Focados
+
+```text
+lab-<tecnologia>-<tema>
+```
+
+- Exploração profunda de uma tecnologia, ferramenta ou padrão
+- Spikes, POCs e experimentos direcionados
+- Escopo intencionalmente limitado
+
+### 🎮 Playgrounds — Experimentos Rápidos
+
+```text
+playground-<stack>
+```
+
+- Exploração livre e rápida de ideias
+- Sem compromisso com arquitetura final ou documentação extensa
+- Espaço para aprendizado incremental
+
+### ☁️ Infraestrutura como Código (Terraform)
+```text
+terraform-<provider>-<resource>
+```
+
+- Módulos reutilizáveis de Terraform
+- Isolados por responsabilidade
+- Pensados para composição, versionamento e reuso
+
+### 🤖 Automação com GitHub Actions
+```text
+gha-<action-name>
+```
+
+- Actions reutilizáveis (composite ou JS)
+- Automação de build, qualidade, segurança e release
+
+### Workflows reutilizáveis
+```text
+gh-workflow-<workflow-name>
+```
+
+- Workflows baseados em workflow_call
+- Padronização de CI/CD entre múltiplos repositórios
+
+## 🧠 Domínio de Negócio
+
+Alguns sandboxes utilizam domínios reais (ex: crédito imobiliário) como contexto de aplicação.
+
+O domínio é utilizado apenas como cenário realista para exercitar arquitetura e engenharia.
+
+Os padrões e decisões explorados são transferíveis para diversos setores, como seguros, marketplace, logística e plataformas internas.
+
+## 🧭 Princípios e Filosofia
+
+- Arquitetura antes da ferramenta
+- Contratos antes da implementação
+- Infraestrutura como código, não como script
+- Decisões explícitas e registradas (ADRs)
+- Evolução incremental, consciente e documentada
+
+## 📌 Como Navegar por este GitHub
+
+1. Comece pelos sandboxes
+2. Leia o README, ARCHITECTURE.md e os ADRs
+3. Observe como código, infraestrutura e decisões se conectam
