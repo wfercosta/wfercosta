@@ -83,6 +83,6 @@ Os padrões e decisões explorados são transferíveis para diversos setores, co
 
 ## 📌 Como Navegar por este GitHub
 
-1. Comece pelos sandboxes
-2. Leia o README, ARCHITECTURE.md e os ADRs
-3. Observe como código, infraestrutura e decisões se conectam
+1. Comece pelos repositórios de ```sandboxes```
+2. Leia o README e os demais doocumentos do repositório (e.g. ARCHITECTURE.md e os ADRs)
+3. Observe os códigos da aplicaçõe, infraestrutura e como elas se conectam com as decisões
