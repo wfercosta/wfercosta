@@ -1,88 +1,107 @@
-# 👋 Sobre este GitHub
+# 👋 About This GitHub
 
-Este perfil é organizado como um **portfólio técnico** focado em **arquitetura de software, cloud computing e engenharia de plataformas**.
+This profile is organized as a **technical portfolio** focused on **software architecture, cloud computing, and platform engineering**.
 
-Os repositórios aqui não representam produtos finais, mas sim **estudos estruturados, laboratórios técnicos e componentes reutilizáveis**, criados para explorar decisões arquiteturais, trade-offs e padrões aplicáveis a sistemas reais e complexos.
+The repositories here are not final products. They represent **structured studies, technical laboratories, and reusable components**, created to explore architectural decisions, trade-offs, and patterns applicable to real-world, complex systems.
 
 ---
 
-## 📦 Tipos de Repositórios
+## 📦 Repository Types
 
-### 🧱 Sandboxes — Casos Arquiteturais Completos
-
-```text
-sandbox-<tema>-platform[-ano]
-```
-
-- Casos de estudo end-to-end
-- Arquitetura documentada (C4, ADRs)
-- Integração entre front-end, back-end e processamento
-- Infraestrutura como código
-- Foco em padrões arquiteturais, não em produto
-
-### 🧪 Labs — Estudos Técnicos Focados
+### 🧱 Sandboxes — Complete Architectural Case Studies
 
 ```text
-lab-<tecnologia>-<tema>
+sandbox-<theme>-platform[-year]
 ```
 
-- Exploração profunda de uma tecnologia, ferramenta ou padrão
-- Spikes, POCs e experimentos direcionados
-- Escopo intencionalmente limitado
+- End-to-end case studies  
+- Documented architecture (C4 diagrams, ADRs)  
+- Integration between front-end, back-end, and processing layers  
+- Infrastructure as Code  
+- Focus on architectural patterns, not on delivering a product  
 
-### 🎮 Playgrounds — Experimentos Rápidos
+---
+
+### 🧪 Labs — Focused Technical Studies
+
+```text
+lab-<technology>-<topic>
+```
+
+- Deep exploration of a specific technology, tool, or pattern  
+- Spikes, POCs, and targeted experiments  
+- Intentionally limited scope  
+
+---
+
+### 🎮 Playgrounds — Fast Experiments
 
 ```text
 playground-<stack>
 ```
 
-- Exploração livre e rápida de ideias
-- Sem compromisso com arquitetura final ou documentação extensa
-- Espaço para aprendizado incremental
+- Free and fast experimentation  
+- No commitment to a final architecture or extensive documentation  
+- Space for incremental learning  
 
-### ☁️ Infraestrutura como Código (Terraform)
+---
+
+### ☁️ Infrastructure as Code (Terraform)
+
 ```text
 terraform-<provider>-<resource>
 ```
 
-- Módulos reutilizáveis de Terraform
-- Isolados por responsabilidade
-- Pensados para composição, versionamento e reuso
+- Reusable Terraform modules  
+- Responsibility-based isolation  
+- Designed for composition, versioning, and reuse  
 
-### 🤖 Automação com GitHub Actions
+---
+
+### 🤖 Automation with GitHub Actions
+
 ```text
 gha-<action-name>
 ```
 
-- Actions reutilizáveis (composite ou JS)
-- Automação de build, qualidade, segurança e release
+- Reusable GitHub Actions (composite or JavaScript)  
+- Automation for build, quality, security, and release processes  
 
-### Workflows reutilizáveis
+---
+
+### Reusable Workflows
+
 ```text
 gh-workflow-<workflow-name>
 ```
 
-- Workflows baseados em workflow_call
-- Padronização de CI/CD entre múltiplos repositórios
+- Workflows based on `workflow_call`  
+- CI/CD standardization across multiple repositories  
 
-## 🧠 Domínio de Negócio
+---
 
-Alguns sandboxes utilizam domínios reais (ex: crédito imobiliário) como contexto de aplicação.
+## 🧠 Business Domain
 
-O domínio é utilizado apenas como cenário realista para exercitar arquitetura e engenharia.
+Some sandboxes use **real-world domains** (e.g., mortgage lending) as the application context.
 
-Os padrões e decisões explorados são transferíveis para diversos setores, como seguros, marketplace, logística e plataformas internas.
+The domain is used purely as a **realistic scenario** to exercise architecture and engineering practices.
 
-## 🧭 Princípios e Filosofia
+The patterns and decisions explored are **transferable across industries**, such as insurance, marketplaces, logistics, and internal enterprise platforms.
 
-- Arquitetura antes da ferramenta
-- Contratos antes da implementação
-- Infraestrutura como código, não como script
-- Decisões explícitas e registradas (ADRs)
-- Evolução incremental, consciente e documentada
+---
 
-## 📌 Como Navegar por este GitHub
+## 🧭 Principles and Philosophy
 
-1. Comece pelos repositórios de ```sandboxes```
-2. Leia o README e os demais doocumentos do repositório (e.g. ARCHITECTURE.md e os ADRs)
-3. Observe os códigos da aplicaçõe, infraestrutura e como elas se conectam com as decisões
+- Architecture before tools  
+- Contracts before implementation  
+- Infrastructure as Code, not scripts  
+- Explicit and documented decisions (ADRs)  
+- Conscious, incremental, and documented evolution  
+
+---
+
+## 📌 How to Navigate This GitHub
+
+1. Start with the `sandbox` repositories  
+2. Read the `README` and supporting documents (e.g., `ARCHITECTURE.md` and ADRs)  
+3. Observe the application code, infrastructure code, and how they connect to architectural decisions  
