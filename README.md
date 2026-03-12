@@ -5,7 +5,7 @@ platforms and engineering distributed systems.
 
 ------------------------------------------------------------------------
 
-## 👋 About This GitHub
+## About
 
 This GitHub profile is organized as a **technical portfolio and learning
 environment** where I explore and document engineering practices around:
@@ -46,7 +46,9 @@ Typical characteristics:
 
 Repository pattern:
 
-sandbox-`<domain>`{=html}-`<platform>`{=html}
+```
+sandbox-`<domain>`-`<platform>`
+```
 
 Examples:
 
@@ -72,7 +74,9 @@ Typical content:
 
 Repository pattern:
 
-lab-`<technology>`{=html}-`<topic>`{=html}
+```
+lab-`<technology>`-`<topic>`
+```
 
 Examples:
 
@@ -89,7 +93,9 @@ Playgrounds are used to test ideas, syntax or libraries quickly.
 
 Repository pattern:
 
-playground-`<topic>`{=html}
+```
+playground-`<topic>`
+```
 
 Examples:
 
@@ -103,7 +109,9 @@ Reusable Terraform modules used to provision cloud infrastructure.
 
 Repository pattern:
 
-terraform-`<provider>`{=html}-`<resource>`{=html}
+```
+terraform-`<provider>`-`<resource>`
+```
 
 Examples:
 
@@ -124,7 +132,9 @@ Reusable GitHub Actions used to automate CI/CD pipelines.
 
 Repository pattern:
 
-gha-`<action-name>`{=html}
+```
+gha-`<action-name>`
+```
 
 Examples:
 
@@ -138,7 +148,9 @@ Reusable workflow templates used across repositories.
 
 Repository pattern:
 
-ghw-`<workflow-name>`{=html}
+```
+ghw-`<workflow-name>`
+```
 
 Examples:
 
@@ -160,7 +172,9 @@ These repositories typically include:
 
 Repository pattern:
 
-agent-skill-`<capability>`{=html}
+```
+agent-skill-`<capability>`
+```
 
 Examples:
 
