@@ -235,15 +235,15 @@ Instead of only reading or studying, knowledge is consolidated through:
 
 # Repository Naming Guide
 
-  Category            Pattern
-  ------------------- -----------------
-  Sandbox             `sandbox-*`
-  Lab                 `lab-*`
-  Playground          `playground-*`
-  Terraform Modules   `terraform-*`
-  GitHub Actions      `gha-*`
-  GitHub Workflows    `ghw-*`
-  AI Agent Skills     `agent-skill-*`
+  | Category | Pattern |
+  |---|---|
+  | Sandbox             | `sandbox-*` |
+  | Lab                 | `lab-*` |
+  | Playground          | `playground-*` |
+  | Terraform Modules   | `terraform-*` |
+  | GitHub Actions      | `gha-*` |
+  | GitHub Workflows    | `ghw-*` |
+  | AI Agent Skills     | `agent-skill-*` |
 
 ------------------------------------------------------------------------
 
