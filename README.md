@@ -1,107 +1,243 @@
-# 👋 About This GitHub
+# Wander Costa
 
-This profile is organized as a **technical portfolio** focused on **software architecture, cloud computing, and platform engineering**.
+Staff Software Engineer focused on software architecture, cloud
+platforms and engineering distributed systems.
 
-The repositories here are not final products. They represent **structured studies, technical laboratories, and reusable components**, created to explore architectural decisions, trade-offs, and patterns applicable to real-world, complex systems.
+------------------------------------------------------------------------
 
----
+## 👋 About This GitHub
 
-## 📦 Repository Types
+This GitHub profile is organized as a **technical portfolio and learning
+environment** where I explore and document engineering practices around:
 
-### 🧱 Sandboxes — Complete Architectural Case Studies
+-   Software Architecture;
+-   Distributed Systems;
+-   Cloud Platforms (AWS);
+-   Platform Engineering;
+-   AI Agents and LLM-based systems;
+-   Infrastructure as Code;
+-   Programming Languages and Algorithms
 
-```text
-sandbox-<theme>-platform[-year]
-```
+Repositories are intentionally structured to reflect **different
+engineering and learning contexts**.
 
-- End-to-end case studies  
-- Documented architecture (C4 diagrams, ADRs)  
-- Integration between front-end, back-end, and processing layers  
-- Infrastructure as Code  
-- Focus on architectural patterns, not on delivering a product  
+------------------------------------------------------------------------
 
----
+# Repository Categories
 
-### 🧪 Labs — Focused Technical Studies
+To keep the portfolio organized and easy to navigate, repositories
+follow a set of naming conventions.
 
-```text
-lab-<technology>-<topic>
-```
+------------------------------------------------------------------------
 
-- Deep exploration of a specific technology, tool, or pattern  
-- Spikes, POCs, and targeted experiments  
-- Intentionally limited scope  
+## 🧪 Sandbox
 
----
+**Full technical systems and architectural experiments.**
 
-### 🎮 Playgrounds — Fast Experiments
+Sandbox repositories simulate realistic platforms and include
+architecture, infrastructure, services and documentation.
 
-```text
-playground-<stack>
-```
+Typical characteristics:
 
-- Free and fast experimentation  
-- No commitment to a final architecture or extensive documentation  
-- Space for incremental learning  
+-   End-to-end architectures;
+-   Multiple services or components;
+-   Infrastructure provisioning;
+-   Architectural documentation
 
----
+Repository pattern:
 
-### ☁️ Infrastructure as Code (Terraform)
+sandbox-`<domain>`{=html}-`<platform>`{=html}
 
-```text
-terraform-<provider>-<resource>
-```
+Examples:
 
-- Reusable Terraform modules  
-- Responsibility-based isolation  
-- Designed for composition, versioning, and reuse  
+sandbox-process-platform sandbox-marketplace-platform
+sandbox-credit-platform
 
----
+------------------------------------------------------------------------
 
-### 🤖 Automation with GitHub Actions
+## 🔬 Lab
 
-```text
-gha-<action-name>
-```
+**Structured technical studies and deep dives.**
 
-- Reusable GitHub Actions (composite or JavaScript)  
-- Automation for build, quality, security, and release processes  
+Labs focus on investigating specific technologies, patterns or concepts
+in a structured way.
 
----
+Typical content:
 
-### Reusable Workflows
+-   language studies;
+-   algorithms and data structures;
+-   system design analysis;
+-   framework explorations;
+-   technical experiments
 
-```text
-gh-workflow-<workflow-name>
-```
+Repository pattern:
 
-- Workflows based on `workflow_call`  
-- CI/CD standardization across multiple repositories  
+lab-`<technology>`{=html}-`<topic>`{=html}
 
----
+Examples:
 
-## 🧠 Business Domain
+lab-go-concurrency lab-kotlin-coroutines lab-algorithms-grokking
+lab-llm-from-scratch lab-system-design-uber
 
-Some sandboxes use **real-world domains** (e.g., mortgage lending) as the application context.
+------------------------------------------------------------------------
 
-The domain is used purely as a **realistic scenario** to exercise architecture and engineering practices.
+## 🧩 Playground
 
-The patterns and decisions explored are **transferable across industries**, such as insurance, marketplaces, logistics, and internal enterprise platforms.
+**Small experiments and quick explorations.**
 
----
+Playgrounds are used to test ideas, syntax or libraries quickly.
 
-## 🧭 Principles and Philosophy
+Repository pattern:
 
-- Architecture before tools  
-- Contracts before implementation  
-- Infrastructure as Code, not scripts  
-- Explicit and documented decisions (ADRs)  
-- Conscious, incremental, and documented evolution  
+playground-`<topic>`{=html}
 
----
+Examples:
 
-## 📌 How to Navigate This GitHub
+playground-rust playground-dsa playground-webassembly
 
-1. Start with the `sandbox` repositories  
-2. Read the `README` and supporting documents (e.g., `ARCHITECTURE.md` and ADRs)  
-3. Observe the application code, infrastructure code, and how they connect to architectural decisions  
+------------------------------------------------------------------------
+
+## ☁️ Terraform Modules
+
+Reusable Terraform modules used to provision cloud infrastructure.
+
+Repository pattern:
+
+terraform-`<provider>`{=html}-`<resource>`{=html}
+
+Examples:
+
+terraform-aws-vpc terraform-aws-ecs-service terraform-aws-alb
+
+Each module typically includes:
+
+-   reusable infrastructure code;
+-   usage examples;
+-   input/output documentation;
+-   versioned releases
+
+------------------------------------------------------------------------
+
+## ⚙️ GitHub Actions
+
+Reusable GitHub Actions used to automate CI/CD pipelines.
+
+Repository pattern:
+
+gha-`<action-name>`{=html}
+
+Examples:
+
+gha-terraform-plan gha-docker-build gha-kubernetes-deploy
+
+------------------------------------------------------------------------
+
+## 🔁 GitHub Workflows
+
+Reusable workflow templates used across repositories.
+
+Repository pattern:
+
+ghw-`<workflow-name>`{=html}
+
+Examples:
+
+ghw-ci-pipeline ghw-terraform-deploy ghw-release
+
+------------------------------------------------------------------------
+
+## 🤖 AI Agent Skills
+
+Reusable capabilities designed to be used by AI agents and LLM-based
+systems.
+
+These repositories typically include:
+
+-   prompt templates;
+-   tool interfaces;
+-   input/output schemas;
+-   reusable agent capabilities
+
+Repository pattern:
+
+agent-skill-`<capability>`{=html}
+
+Examples:
+
+agent-skill-rag-search agent-skill-ticket-classification
+agent-skill-code-generation agent-skill-http-client
+agent-skill-task-planning
+
+------------------------------------------------------------------------
+
+# Technology Focus
+
+Technologies frequently explored in these repositories.
+
+### Languages
+
+-   Go;
+-   Kotlin;
+-   Python;
+-   TypeScript
+
+### Platforms
+
+-   AWS;
+-   Kubernetes;
+-   Terraform;
+-   GitHub Actions
+
+### Architecture
+
+-   Microservices;
+-   Event-Driven Architecture;
+-   Process-Oriented Systems;
+-   Platform Engineering
+
+### AI / LLM
+
+-   LLM applications;
+-   AI agents;
+-   Retrieval Augmented Generation (RAG);
+-   Multi-agent systems
+
+------------------------------------------------------------------------
+
+# Learning Philosophy
+
+This profile follows a simple principle:
+
+> Learning should produce artifacts.
+
+Instead of only reading or studying, knowledge is consolidated through:
+
+-   runnable code;
+-   documented experiments;
+-   architectural sandboxes;
+-   reusable infrastructure modules
+
+------------------------------------------------------------------------
+
+# Repository Naming Guide
+
+  Category            Pattern
+  ------------------- -----------------
+  Sandbox             `sandbox-*`
+  Lab                 `lab-*`
+  Playground          `playground-*`
+  Terraform Modules   `terraform-*`
+  GitHub Actions      `gha-*`
+  GitHub Workflows    `ghw-*`
+  AI Agent Skills     `agent-skill-*`
+
+------------------------------------------------------------------------
+
+# Areas of Interest
+
+-   Software Architecture;
+-   Platform Engineering;
+-   Cloud Infrastructure;
+-   Distributed Systems;
+-   AI Systems Engineering;
+-   Developer Platforms
